@@ -4,21 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cd1fb49-2648-4989-8780-9b2befa16021" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HPP_temp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CourseSection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HungarianAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Room.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Time.java" afterDir="false" />
+    <list default="true" id="9cd1fb49-2648-4989-8780-9b2befa16021" name="Changes" comment="Note: This is my first commit and push to GitHub.&#10;&#10;These are Java classes that represent different people and things considered when a school assigns courses to its students. Students, teachers, courses, course sections, times, and rooms are considered. The Hungarian Algorithm is used to assign one group to another group, through functionality for multi-dimensional assignment is missing.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +49,20 @@
       <option name="presentableId" value="Default" />
       <updated>1735930253011</updated>
     </task>
+    <task id="LOCAL-00001" summary="Note: This is my first commit and push to GitHub.&#10;&#10;These are Java classes that represent different people and things considered when a school assigns courses to its students. Students, teachers, courses, course sections, times, and rooms are considered. The Hungarian Algorithm is used to assign one group to another group, through functionality for multi-dimensional assignment is missing.">
+      <option name="closed" value="true" />
+      <created>1735931205140</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735931205140</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Note: This is my first commit and push to GitHub.&#10;&#10;These are Java classes that represent different people and things considered when a school assigns courses to its students. Students, teachers, courses, course sections, times, and rooms are considered. The Hungarian Algorithm is used to assign one group to another group, through functionality for multi-dimensional assignment is missing." />
+    <option name="LAST_COMMIT_MESSAGE" value="Note: This is my first commit and push to GitHub.&#10;&#10;These are Java classes that represent different people and things considered when a school assigns courses to its students. Students, teachers, courses, course sections, times, and rooms are considered. The Hungarian Algorithm is used to assign one group to another group, through functionality for multi-dimensional assignment is missing." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
